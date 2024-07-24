@@ -1,5 +1,6 @@
 <script setup lang="ts">
 // defineProps<{}>()
+import { Orders } from 'orders';
 </script>
 
 <template>
